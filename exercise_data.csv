@@ -1,0 +1,370 @@
+Exercise ID,Exercise Name,Type,Difficulty,Muscle Group,Retrievals
+1,triceps dip,Strength,Intermediate,Triceps,0
+2,decline ez-bar skullcrusher,Strength,Intermediate,Triceps,0
+3,dumbbell floor press,Powerlifting,Intermediate,Triceps,0
+4,cable v-bar push-down,Strength,Intermediate,Triceps,0
+5,weighted bench dip,Strength,Intermediate,Triceps,0
+6,ez-bar skullcrusher,Strength,Intermediate,Triceps,0
+7,reverse grip triceps pushdown,Strength,Intermediate,Triceps,0
+8,push-ups - close triceps position,Strength,Intermediate,Triceps,0
+9,kneeling cable triceps extension,Strength,Intermediate,Triceps,0
+10,single-arm cable triceps extension,Strength,Intermediate,Triceps,0
+11,landmine twist,Strength,Intermediate,Abdominals,0
+12,elbow plank,Strength,Intermediate,Abdominals,0
+13,bottoms up,Strength,Intermediate,Abdominals,0
+14,suspended ab fall-out,Strength,Intermediate,Abdominals,0
+15,dumbbell v-sit cross jab,Strength,Intermediate,Abdominals,0
+16,standing cable low-to-high twist,Strength,Intermediate,Abdominals,0
+17,dumbbell spell caster,Strength,Beginner,Abdominals,0
+18,decline reverse crunch,Strength,Intermediate,Abdominals,23
+19,spider crawl,Strength,Intermediate,Abdominals,23
+20,cocoons,Strength,Intermediate,Abdominals,0
+21,hip circles (prone),Stretching,Intermediate,Abductors,0
+22,standing hip circles,Stretching,Beginner,Abductors,1
+23,clam,Strength,Intermediate,Abductors,1
+24,iliotibial band smr,Stretching,Intermediate,Abductors,1
+25,thigh abductor,Strength,Intermediate,Abductors,1
+26,fire hydrant,Strength,Beginner,Abductors,0
+27,windmills,Stretching,Intermediate,Abductors,1
+28,monster walk,Strength,Intermediate,Abductors,0
+29,it band and glute stretch,Stretching,Intermediate,Abductors,1
+30,single-leg lying cross-over stretch,Stretching,Beginner,Abductors,24
+31,thigh adductor,Strength,Intermediate,Adductors,26
+32,groiners,Stretching,Beginner,Adductors,26
+33,band hip adductions,Strength,Beginner,Adductors,26
+34,side leg raises,Stretching,Beginner,Adductors,26
+35,lateral hop,Plyometrics,Intermediate,Adductors,31
+36,groin and back stretch,Stretching,Beginner,Adductors,4
+37,adductor smr,Stretching,Beginner,Adductors,4
+38,side lying groin stretch,Stretching,Intermediate,Adductors,24
+39,adductor/groin,Stretching,Beginner,Adductors,3
+40,lying bent leg groin,Stretching,Beginner,Adductors,23
+41,incline hammer curls,Strength,Beginner,Biceps,14
+42,wide-grip barbell curl,Strength,Beginner,Biceps,14
+43,ez-bar spider curl,Strength,Intermediate,Biceps,14
+44,hammer curls,Strength,Intermediate,Biceps,0
+45,ez-bar curl,Strength,Intermediate,Biceps,0
+46,zottman curl,Strength,Intermediate,Biceps,2
+47,biceps curl to shoulder press,Strength,Beginner,Biceps,0
+48,barbell curl,Strength,Intermediate,Biceps,0
+49,concentration curl,Strength,Intermediate,Biceps,1
+50,flexor incline dumbbell curls,Strength,Beginner,Biceps,1
+51,smith machine calf raise,Strength,Intermediate,Calves,1
+52,standing calf raises,Strength,Beginner,Calves,1
+53,seated calf raise,Strength,Intermediate,Calves,2
+54,calf press on the leg press machine,Strength,Intermediate,Calves,7
+55,rocking standing calf raise,Strength,Beginner,Calves,7
+56,calf press,Strength,Beginner,Calves,0
+57,standing barbell calf raise,Strength,Beginner,Calves,1
+58,barbell seated calf raise,Strength,Beginner,Calves,1
+59,balance board,Strength,Beginner,Calves,1
+60,weighted donkey calf raise,Strength,Intermediate,Calves,0
+61,dumbbell bench press,Strength,Intermediate,Chest,0
+62,pushups,Strength,Intermediate,Chest,0
+63,close-grip bench press,Strength,Intermediate,Chest,0
+64,dumbbell flyes,Strength,Intermediate,Chest,0
+65,incline dumbbell bench press,Strength,Intermediate,Chest,0
+66,low-cable cross-over,Strength,Intermediate,Chest,0
+67,barbell bench press - medium grip,Strength,Intermediate,Chest,0
+68,chest dip,Strength,Intermediate,Chest,0
+69,decline dumbbell flyes,Strength,Intermediate,Chest,0
+70,bodyweight flyes,Strength,Beginner,Chest,10
+71,rickshaw carry,Strongman,Beginner,Forearms,15
+72,palms-down wrist curl over bench,Strength,Intermediate,Forearms,13
+73,straight-bar wrist roll-up,Strength,Intermediate,Forearms,13
+74,dumbbell farmer's walk,Strongman,Intermediate,Forearms,13
+75,palms-up wrist curl over bench,Strength,Intermediate,Forearms,13
+76,standing behind-the-back wrist curl,Strength,Beginner,Forearms,10
+77,seated finger curl,Strength,Beginner,Forearms,8
+78,seated two-arm palms-up low-pulley wrist curl,Strength,Beginner,Forearms,8
+79,wrist roller,Strength,Beginner,Forearms,4
+80,seated one-arm dumbbell palms-up wrist curl,Strength,Beginner,Forearms,2
+81,barbell glute bridge,Powerlifting,Intermediate,Glutes,2
+82,barbell hip thrust,Powerlifting,Intermediate,Glutes,2
+83,single-leg cable hip extension,Strength,Intermediate,Glutes,0
+84,glute bridge,Strength,Intermediate,Glutes,0
+85,single-leg glute bridge,Strength,Intermediate,Glutes,0
+86,step-up with knee raise,Strength,Intermediate,Glutes,1
+87,kettlebell thruster,Strength,Intermediate,Glutes,1
+88,kneeling squat,Powerlifting,Beginner,Glutes,3
+89,flutter kicks,Strength,Intermediate,Glutes,2
+90,glute kickback,Strength,Beginner,Glutes,4
+91,barbell deadlift,Strength,Intermediate,Hamstrings,4
+92,romanian deadlift with dumbbells,Strength,Beginner,Hamstrings,3
+93,clean deadlift,Olympic Weightlifting,Beginner,Hamstrings,3
+94,sumo deadlift,Powerlifting,Beginner,Hamstrings,2
+95,romanian deadlift from deficit,Olympic Weightlifting,Beginner,Hamstrings,2
+97,power clean from blocks,Olympic Weightlifting,Beginner,Hamstrings,0
+98,natural glute ham raise,Strength,Beginner,Hamstrings,0
+99,glute ham raise,Strength,Beginner,Hamstrings,0
+100,snatch deadlift,Olympic Weightlifting,Beginner,Hamstrings,2
+101,weighted pull-up,Strength,Intermediate,Lats,0
+102,pullups,Strength,Intermediate,Lats,0
+103,rocky pull-ups/pulldowns,Strength,Beginner,Lats,0
+104,close-grip pull-down,Strength,Intermediate,Lats,0
+105,pull-up,Strength,Beginner,Lats,0
+106,muscle up,Strength,Intermediate,Lats,0
+107,shotgun row,Strength,Intermediate,Lats,0
+108,close-grip front lat pulldown,Strength,Intermediate,Lats,0
+109,v-bar pull-up,Strength,Intermediate,Lats,0
+110,rope climb,Strength,Intermediate,Lats,3
+111,atlas stones,Strongman,Intermediate,Lower Back,5
+112,barbell deficit deadlift,Powerlifting,Beginner,Lower Back,5
+113,back extension,Strength,Intermediate,Lower Back,5
+114,axle deadlift,Strongman,Beginner,Lower Back,4
+115,hyperextensions with no hyperextension bench,Strength,Beginner,Lower Back,4
+116,deadlift with bands,Powerlifting,Beginner,Lower Back,1
+117,deadlift with chains,Powerlifting,Beginner,Lower Back,0
+118,rack pull with bands,Powerlifting,Beginner,Lower Back,0
+119,superman,Stretching,Intermediate,Lower Back,0
+120,t-bar row with handle,Strength,Intermediate,Middle Back,0
+121,reverse-grip bent-over row,Strength,Intermediate,Middle Back,0
+122,one-arm dumbbell row,Strength,Intermediate,Middle Back,0
+123,one-arm long bar row,Strength,Intermediate,Middle Back,0
+124,t-bar row,Strength,Intermediate,Middle Back,0
+125,bent over two-arm long bar row,Strength,Intermediate,Middle Back,0
+126,alternating sit-through with crunch,Strength,Intermediate,Middle Back,0
+127,rower,Cardio,Intermediate,Middle Back,0
+128,seated cable rows,Strength,Intermediate,Middle Back,0
+129,incline dumbbell row,Strength,Intermediate,Middle Back,0
+130,lying face down plate neck resistance,Strength,Beginner,Neck,0
+131,lying face up plate neck resistance,Strength,Beginner,Neck,0
+132,seated head harness neck resistance,Strength,Beginner,Neck,0
+133,isometric neck exercise - sides,Strength,Beginner,Neck,0
+134,isometric neck exercise - front and back,Strength,Beginner,Neck,0
+135,neck bridge prone,Strength,Beginner,Neck,0
+136,side neck stretch,Stretching,Intermediate,Neck,0
+137,chin to chest stretch,Stretching,Intermediate,Neck,0
+138,neck-smr,Stretching,Intermediate,Neck,0
+139,single-leg press,Strength,Intermediate,Quadriceps,0
+140,clean from blocks,Olympic Weightlifting,Beginner,Quadriceps,0
+141,barbell full squat,Strength,Intermediate,Quadriceps,0
+142,tire flip,Strongman,Intermediate,Quadriceps,0
+143,barbell back squat to box,Powerlifting,Intermediate,Quadriceps,0
+144,push-press,Olympic Weightlifting,Intermediate,Quadriceps,0
+145,hang clean,Olympic Weightlifting,Beginner,Quadriceps,0
+146,reverse band box squat,Powerlifting,Intermediate,Quadriceps,0
+147,jumping rope,Cardio,Intermediate,Quadriceps,0
+148,smith machine shrug,Strength,Intermediate,Traps,0
+149,leverage shrug,Strength,Intermediate,Traps,0
+150,standing dumbbell shrug,Strength,Intermediate,Traps,0
+151,standing dumbbell upright row,Strength,Intermediate,Traps,0
+152,kettlebell sumo deadlift high pull,Strength,Intermediate,Traps,0
+153,calf-machine shoulder shrug,Strength,Beginner,Traps,0
+154,barbell shrug,Strength,Intermediate,Traps,0
+155,barbell behind-the-back shrug,Strength,Intermediate,Traps,0
+156,dumbbell front raise to lateral raise,Strength,Intermediate,Shoulders,0
+157,clean and press,Strength,Intermediate,Shoulders,0
+158,narrow-stance squat,Strength,Expert,Quadriceps,0
+159,barbell forward lunge,Strength,Expert,Quadriceps,0
+160,scissors jump,Plyometrics,Expert,Quadriceps,0
+161,barbell hack squat,Strength,Expert,Quadriceps,0
+162,overhead squat,Olympic Weightlifting,Expert,Quadriceps,0
+163,single-arm side deadlift,Strength,Expert,Quadriceps,0
+164,single-arm kettlebell overhead squat,Strength,Expert,Quadriceps,0
+165,single-leg squat with knee tap,Strength,Expert,Quadriceps,1
+166,squat isometric hold,Plyometrics,Expert,Quadriceps,1
+167,stair climber,Cardio,Intermediate,Quadriceps,1
+168,bicycling,Cardio,Intermediate,Quadriceps,1
+169,elliptical trainer,Cardio,Intermediate,Quadriceps,1
+170,stairmaster,Cardio,Intermediate,Quadriceps,1
+171,burpee,Cardio,Intermediate,Quadriceps,1
+172,trail running/walking,Cardio,Intermediate,Quadriceps,1
+173,skating,Cardio,Beginner,Quadriceps,1
+174,clean and jerk,Olympic Weightlifting,Intermediate,Shoulders,1
+175,olympic squat,Olympic Weightlifting,Beginner,Quadriceps,0
+176,single leg push-off,Plyometrics,Beginner,Quadriceps,0
+177,side-to-side box skip,Plyometrics,Intermediate,Quadriceps,0
+178,mountain climber,Plyometrics,Intermediate,Abdominals,0
+179,drop push,Plyometrics,Beginner,Chest,0
+180,double leg butt kick,Plyometrics,Intermediate,Quadriceps,0
+181,broad jump,Plyometrics,Intermediate,Quadriceps,0
+182,sledgehammer swing,Plyometrics,Intermediate,Abdominals,0
+183,box jump,Plyometrics,Beginner,Hamstrings,0
+185,box squat with bands,Powerlifting,Beginner,Quadriceps,0
+186,squat with chains,Powerlifting,Beginner,Quadriceps,0
+187,stomach vacuum,Stretching,Beginner,Abdominals,0
+188,side wrist pull,Stretching,Beginner,Shoulders,0
+189,standing leg swing,Stretching,Beginner,Hamstrings,0
+190,leg-up hamstring stretch,Stretching,Intermediate,Hamstrings,0
+191,bear crawl sled drag,Strongman,Intermediate,Quadriceps,0
+192,yoke walk,Strongman,Beginner,Quadriceps,0
+193,circus bell,Strongman,Beginner,Shoulders,0
+194,backward drag,Strongman,Beginner,Quadriceps,0
+196,plate twist,Strength,Beginner,Abdominals,0
+197,gorilla chin/crunch,Strength,Beginner,Abdominals,0
+198,crunch - hands overhead,Strength,Beginner,Abdominals,0
+199,bosu ball cable crunch with side bends,Strength,Beginner,Abdominals,0
+200,butt-ups,Strength,Beginner,Abdominals,0
+201,bench barbell roll-out,Strength,Beginner,Abdominals,0
+202,advanced kettlebell windmill,Strength,Beginner,Abdominals,0
+203,cable reverse crunch,Strength,Beginner,Abdominals,0
+204,machine bicep curl,Strength,Beginner,Biceps,0
+205,close-grip ez-bar curl,Strength,Beginner,Biceps,0
+206,cross-body hammer curl,Strength,Beginner,Biceps,0
+207,barbell curls lying against an incline,Strength,Beginner,Biceps,0
+208,seated close-grip concentration barbell curl,Strength,Beginner,Biceps,0
+209,reverse barbell preacher curls,Strength,Beginner,Biceps,0
+210,smith machine reverse calf raises,Strength,Beginner,Calves,0
+211,dumbbell seated one-leg calf raise,Strength,Beginner,Calves,0
+212,ankle circles,Stretching,Beginner,Calves,0
+213,knee circles,Stretching,Beginner,Calves,0
+214,wide-grip bench press,Strength,Beginner,Chest,0
+215,wide-grip decline barbell bench press,Strength,Beginner,Chest,0
+216,reverse-grip incline dumbbell bench press,Strength,Beginner,Chest,0
+217,neck press,Strength,Beginner,Chest,0
+218,incline cable chest press,Strength,Beginner,Chest,0
+219,cable chest press,Strength,Beginner,Chest,0
+220,hands-elevated push-up,Strength,Beginner,Chest,0
+221,palms-up dumbbell wrist curl over a bench,Strength,Beginner,Forearms,0
+222,standing olympic plate hand squeeze,Strength,Beginner,Forearms,0
+223,seated palms-down wrist curl,Strength,Beginner,Forearms,0
+224,palms-down dumbbell wrist curl over a bench,Strength,Beginner,Forearms,0
+225,kneeling jump squat,Olympic Weightlifting,Beginner,Glutes,0
+226,pull through,Strength,Beginner,Glutes,0
+227,hip extension with bands,Strength,Beginner,Glutes,0
+228,standing hip extension,Strength,Beginner,Glutes,0
+229,hip lift with band,Powerlifting,Beginner,Glutes,0
+230,downward facing balance,Strength,Beginner,Glutes,0
+231,seated glute,Stretching,Beginner,Glutes,0
+232,lying glute,Stretching,Beginner,Glutes,0
+233,lying leg curls,Strength,Beginner,Hamstrings,0
+234,wide-grip rear pull-up,Strength,Beginner,Lats,0
+235,gironda sternum chins,Strength,Beginner,Lats,0
+236,machine seated row,Strength,Beginner,Lats,0
+237,single-arm kneeling lat pull-down,Strength,Beginner,Lats,0
+238,elevated cable rows,Strength,Beginner,Lats,0
+239,machine-assisted pull-up,Strength,Beginner,Lats,0
+240,full range-of-motion lat pulldown,Strength,Beginner,Lats,0
+241,exercise ball weighted hyperextension,Strength,Beginner,Lower Back,0
+242,seated back extension,Strength,Beginner,Lower Back,0
+243,seated good mornings,Powerlifting,Beginner,Lower Back,0
+244,bent over two-dumbbell row with palms in,Strength,Beginner,Middle Back,0
+245,middle back shrug,Strength,Beginner,Middle Back,0
+246,yates row reverse grip,Strength,Beginner,Middle Back,0
+247,leverage high row,Strength,Beginner,Middle Back,0
+248,two-arm kettlebell row,Strength,Beginner,Middle Back,0
+249,straight bar bench mid rows,Strength,Beginner,Middle Back,0
+250,inverted row with straps,Strength,Beginner,Middle Back,0
+251,one arm chin-up,Strength,Beginner,Middle Back,0
+252,partner facing feet-elevated side plank with band row,Strength,Beginner,Middle Back,0
+253,front squats with two kettlebells,Strength,Beginner,Quadriceps,0
+254,kettlebell pistol squat,Strength,Beginner,Quadriceps,0
+255,weighted jump squat,Strength,Beginner,Quadriceps,0
+256,narrow stance hack squats,Strength,Beginner,Quadriceps,0
+257,decline close-grip bench to skull crusher,Strength,Beginner,Triceps,0
+258,decline dumbbell triceps extension,Strength,Beginner,Triceps,0
+259,one arm pronated dumbbell triceps extension,Strength,Beginner,Triceps,0
+260,one arm supinated dumbbell triceps extension,Strength,Beginner,Triceps,0
+261,chain handle extension,Powerlifting,Beginner,Triceps,0
+262,bench press with chains,Powerlifting,Beginner,Triceps,0
+263,floor press,Powerlifting,Beginner,Triceps,0
+264,supine chest throw,Plyometrics,Beginner,Triceps,0
+265,low cable triceps extension,Strength,Beginner,Triceps,0
+266,seated bent-over two-arm dumbbell triceps extension,Strength,Beginner,Triceps,0
+267,dumbbell get-up sit-up,Strength,Expert,Abdominals,0
+268,assisted single-arm pull-up,Strength,Expert,Lats,0
+269,assisted single-arm chin-up,Strength,Expert,Lats,0
+270,barbell walking lunge,Strength,Intermediate,Quadriceps,0
+271,forward lunge,Strength,Intermediate,Quadriceps,0
+272,cable straight-bar upright row,Strength,Intermediate,Traps,0
+273,cable shrug,Strength,Intermediate,Traps,0
+274,hm running man crunch,Cardio,Intermediate,Abdominals,0
+275,agility ladder,Cardio,Intermediate,Calves,0
+276,swimming,Cardio,Intermediate,Chest,0
+277,hm running in place,Cardio,Intermediate,Glutes,0
+278,treadmill running,Cardio,Intermediate,Quadriceps,0
+279,hang snatch,Olympic Weightlifting,Beginner,Hamstrings,0
+280,wide stance stiff legs,Olympic Weightlifting,Beginner,Hamstrings,0
+281,clean,Olympic Weightlifting,Beginner,Hamstrings,0
+282,muscle snatch,Olympic Weightlifting,Beginner,Hamstrings,0
+283,hang clean - below the knees,Olympic Weightlifting,Beginner,Quadriceps,0
+284,split jerk,Olympic Weightlifting,Beginner,Quadriceps,0
+285,push-jerk,Olympic Weightlifting,Intermediate,Quadriceps,0
+286,jerk dip squat,Olympic Weightlifting,Beginner,Quadriceps,0
+287,clean shrug,Olympic Weightlifting,Beginner,Traps,0
+288,snatch shrug,Olympic Weightlifting,Beginner,Traps,0
+289,sit-up with single-arm overhand throw,Plyometrics,Intermediate,Abdominals,0
+290,medicine ball partner twist,Plyometrics,Intermediate,Abdominals,0
+291,wall mountain climber,Plyometrics,Intermediate,Abdominals,0
+292,slalom jumps,Plyometrics,Intermediate,Abdominals,0
+293,supine two-arm overhead throw,Plyometrics,Intermediate,Abdominals,0
+294,carioca quick step,Plyometrics,Intermediate,Adductors,0
+295,lateral cone hop,Plyometrics,Intermediate,Adductors,0
+296,lateral box jump,Plyometrics,Intermediate,Adductors,0
+297,incline push-up depth jump,Plyometrics,Intermediate,Chest,0
+298,chest push (multiple response),Plyometrics,Beginner,Chest,0
+299,plyo push-up,Plyometrics,Beginner,Chest,0
+300,isometric chest squeezes,Plyometrics,Beginner,Chest,0
+301,medicine ball chest pass,Plyometrics,Intermediate,Chest,0
+302,heavy bag thrust,Plyometrics,Beginner,Chest,0
+303,decline explosive push-up,Plyometrics,Beginner,Chest,0
+304,superman push-up,Plyometrics,Beginner,Chest,0
+305,clapping push-up,Plyometrics,Beginner,Chest,0
+306,linear acceleration wall drill,Plyometrics,Intermediate,Hamstrings,0
+307,box jump (multiple response),Plyometrics,Intermediate,Hamstrings,0
+308,knee tuck jump,Plyometrics,Intermediate,Hamstrings,0
+309,vertical swing,Plyometrics,Beginner,Hamstrings,0
+310,moving claw series,Plyometrics,Intermediate,Hamstrings,0
+311,box skip,Plyometrics,Beginner,Hamstrings,0
+313,linear 3-part start technique,Plyometrics,Intermediate,Hamstrings,0
+314,medicine ball slam,Plyometrics,Intermediate,Lats,0
+315,catch and overhead throw,Plyometrics,Beginner,Lats,0
+316,burpee to pull-up,Plyometrics,Intermediate,Lats,0
+317,dumbbell seated box jump,Plyometrics,Intermediate,Quadriceps,0
+318,alien squat,Plyometrics,Beginner,Quadriceps,0
+319,wall ball toss,Plyometrics,Intermediate,Quadriceps,0
+320,rocket jump,Plyometrics,Beginner,Quadriceps,0
+321,board bench press,Powerlifting,Intermediate,Chest,0
+322,chain press,Powerlifting,Beginner,Chest,0
+323,bench press with short bands,Powerlifting,Beginner,Chest,0
+324,good morning,Powerlifting,Intermediate,Hamstrings,0
+325,band good morning (pull through),Powerlifting,Beginner,Hamstrings,0
+326,band good morning,Powerlifting,Intermediate,Hamstrings,0
+327,sumo deadlift with chains,Powerlifting,Beginner,Hamstrings,0
+328,sumo deadlift with bands,Powerlifting,Beginner,Hamstrings,0
+329,good morning off pins,Powerlifting,Beginner,Hamstrings,0
+330,rack pull,Powerlifting,Intermediate,Lower Back,0
+331,reverse band deadlift,Powerlifting,Beginner,Lower Back,0
+332,squat with bands,Powerlifting,Beginner,Quadriceps,0
+333,reverse band power squat,Powerlifting,Beginner,Quadriceps,0
+334,speed box squat,Powerlifting,Intermediate,Quadriceps,0
+335,bench press - powerlifting,Powerlifting,Intermediate,Triceps,0
+336,pin presses,Powerlifting,Beginner,Triceps,0
+337,floor press with chains,Powerlifting,Beginner,Triceps,0
+338,reverse band bench press,Powerlifting,Beginner,Triceps,0
+339,lateral band walk,Strength,Intermediate,Abductors,0
+340,dynamic pigeon stretch,Strength,Intermediate,Abductors,0
+341,cross-over jack,Strength,Intermediate,Abductors,0
+342,traveling thigh killa,Strength,Intermediate,Abductors,0
+343,fyr thigh killa,Strength,Intermediate,Abductors,0
+344,hm frog stretch,Strength,Intermediate,Abductors,0
+345,side-to-side adductor stretch,Strength,Intermediate,Adductors,0
+346,hm left leg swing,Strength,Intermediate,Adductors,0
+347,uns foam roll adductor,Strength,Intermediate,Adductors,0
+348,side-lying leg adduction scissor,Strength,Intermediate,Adductors,0
+349,seated palms-down barbell wrist curl,Strength,Intermediate,Forearms,0
+350,dumbbell lying supination,Strength,Intermediate,Forearms,0
+351,exercise ball hip thrust,Strength,Intermediate,Glutes,0
+352,stiff-legged dumbbell deadlift,Strength,Intermediate,Hamstrings,0
+353,exercise ball leg curl,Strength,Intermediate,Hamstrings,0
+354,kettlebell pass-through lunge,Strength,Intermediate,Hamstrings,0
+355,power clean,Strength,Intermediate,Hamstrings,0
+356,stiff leg barbell good morning,Strength,Beginner,Lower Back,0
+357,partner flat-bench back extension,Strength,Beginner,Lower Back,0
+358,partner superman with alternating high-five,Strength,Beginner,Lower Back,0
+359,partner bench back extension,Strength,Beginner,Lower Back,0
+360,exercise ball rear delt fly,Strength,Intermediate,Lower Back,0
+361,lying rear delt y,Strength,Intermediate,Lower Back,0
+362,single-leg depth squat,Strength,Intermediate,Quadriceps,0
+363,barbell squat,Strength,Intermediate,Quadriceps,0
+364,triceps pushdown - rope attachment,Strength,Intermediate,Triceps,0
+365,forward drag with press,Strongman,Beginner,Chest,0
+366,power stairs,Strongman,Beginner,Hamstrings,0
+367,atlas stone trainer,Strongman,Beginner,Lower Back,0
+368,keg load,Strongman,Beginner,Lower Back,0
+369,sled drag - harness,Strongman,Intermediate,Quadriceps,0
+370,conan's wheel,Strongman,Beginner,Quadriceps,0
+371,rickshaw deadlift,Strongman,Beginner,Quadriceps,0
+372,sandbag load,Strongman,Beginner,Quadriceps,0
+373,car deadlift,Strongman,Beginner,Quadriceps,0
