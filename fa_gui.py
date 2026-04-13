@@ -428,3 +428,4 @@ class Graphical_User_Interface:
                 # shows a warning if for given filters no exercises existed in the data set
                 st.warning("No exercises found matching your criteria.")
 #hello
+#hello2
